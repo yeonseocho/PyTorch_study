@@ -42,7 +42,7 @@
 **[ 스터디 진행 ]**
 - 매주 [월(online) 15:00 -18:00 (3h) / 금(offline_홍대) 13:00-16:00 (3h)
     - offline 장소는 유동적
-- 매주 스터디 진행 전날 까지 [@issue](https://github.com/yeonseocho/PyTorch_study/issues) 에 학습한 코드를 업로드 한다.
+- 매주 스터디 진행 전날 까지 [@issue](https://github.com/yeonseocho/PyTorch_study/issues)를 확인하고 개인 브랜치에 학습한 코드를 업로드 한다.
     - 팀원들은 서로의 학습 내용을 확인한 후 댓글로 피드백을 진행한다.
 
 **[ 스터디 방법 ]**
