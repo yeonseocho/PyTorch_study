@@ -8,7 +8,7 @@
 |조연서|[@yeonseocho](https://github.com/yeonseocho)|
 |김예원|[@potatowon](https://github.com/potatowon)|
 |안민기|[@mindang](https://github.com/mindang)|
-|최민성|[@kowlbear](https://github.com/kowlbear)|
+|최민석|[@kowlbear](https://github.com/kowlbear)|
 
 <br/>
 
