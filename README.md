@@ -18,6 +18,8 @@
 
 ![image](https://github.com/yeonseocho/PyTorch_study/assets/103731501/1b82f378-a4bf-4bd5-8b08-4b53cd4f9ea9)
 
+[교재 github](https://github.com/wikibook/mpytc)
+
 
 
 
